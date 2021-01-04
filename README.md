@@ -1,2 +1,2 @@
 # Instrument consistency test
-data：.sac
+Data：Microseismic data, type：.sac
